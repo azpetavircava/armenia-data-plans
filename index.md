@@ -59,3 +59,10 @@ layout: default
 　　最后啰嗦一句：买卡时确认一下套餐是否包含一些通话时长和短信，有时给酒店或餐厅打个电话能救急。毕竟，流量不能解决所有问题，对吧？
 
 　　希望这份指南能让你在亚美尼亚的旅程始终在线，尽情捕捉高加索山脉的每一份震撼。
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Armenia SIM 卡购买与激活指南](https://faciylike.github.io/armenia-sim-guides)
